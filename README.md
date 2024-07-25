@@ -35,11 +35,11 @@
 
 #### ICPC Sinchon 24 Summer 초급
 
-| 회차 | 회차 일정  |                             주제                             |                       강의 자료                       |
-| :--: | :--------: | :----------------------------------------------------------: | :---------------------------------------------------: |
-|  2   | 2024.07.22 | 선형 자료구조, $O(N^2)$ 정렬 (Linear Data Structure, $O(N^2)$ Sorting) | [PDF](2024_Summer_ICPC_Sinchon/02_LinearDS_N2Sorting) |
-|  4   | 2024.08.01 |         누적합, 투 포인터 (Prefix sum, Two pointer)          |                          TBD                          |
-|  6   | 2024.08.08 |         기초 동적 계획법 (Basic Dynamic Programming)         |                          TBD                          |
-|  7   | 2024.08.12 | 분할 정복, 재귀 함수 (Divide and conquer, Recursive function) |                          TBD                          |
-|  9   | 2024.08.19 |          트리/그래프, map/set (Tree/Graph, map/set)          |                          TBD                          |
+| 회차 | 회차 일정  |                             주제                             |                         강의 자료                         |
+| :--: | :--------: | :----------------------------------------------------------: | :-------------------------------------------------------: |
+|  2   | 2024.07.22 | 선형 자료구조, $O(N^2)$ 정렬 (Linear Data Structure, $O(N^2)$ Sorting) | [PDF](2024_Summer_ICPC_Sinchon/02_LinearDS_N2Sorting.pdf) |
+|  4   | 2024.08.01 |         누적합, 투 포인터 (Prefix sum, Two pointer)          |                            TBD                            |
+|  6   | 2024.08.08 |         기초 동적 계획법 (Basic Dynamic Programming)         |                            TBD                            |
+|  7   | 2024.08.12 | 분할 정복, 재귀 함수 (Divide and conquer, Recursive function) |                            TBD                            |
+|  9   | 2024.08.19 |          트리/그래프, map/set (Tree/Graph, map/set)          |                            TBD                            |
 
